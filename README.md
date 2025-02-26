@@ -6,6 +6,9 @@ It is important to be willing to learn as you program and take feedback.
 
 What new design skills has your work on the project helped you to craft?
 
+The new design skills that I learned through my work in this project are as follows:
+I learned how to craft shapes in a 3D setting, and also adding textures on shapes in a 3D environment. It was useful to understand how to apply these. 
+They helped bring my scene to look more realistic. Lighting was interesting to learn too. I was able to use it to cast atmosphere into my scene. 
 
 What design process did you follow for your project work?
 How could tactics from your design approach be applied in future work?
