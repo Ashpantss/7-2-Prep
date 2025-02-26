@@ -1,9 +1,12 @@
 # 7-2-Prep
 
 How do I approach designing software?
-
+I approach desinging software with an open and non-baised mindset. 
+It is important to be willing to learn as you program and take feedback. 
 
 What new design skills has your work on the project helped you to craft?
+
+
 What design process did you follow for your project work?
 How could tactics from your design approach be applied in future work?
 How do I approach developing programs?
