@@ -21,9 +21,10 @@ As I spoke on it before taking my project and implementing it into small portion
 How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
 My apporach became more cevolved throughout the milestones which led to my completion. I was able to grap the concepts given to me without having to stop every line of code and reference back. I became more comfident in my work and skills as I engaged with the coursework. 
 How can computer science help me in reaching my goals?
-Computer science will help me reach my goald by providnig me the knowledge and skills needed to suceed in this feild. It helped me learn to problem solve myself and not give up with the first failures. My comprehension skills with visual objects. 
+Computer science will help me reach my goald by providnig me the knowledge and skills needed to suceed in this field. It helped me learn to problem solve myself and not give up with the first failures. My comprehension skills with visual objects. 
 
 How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
+Computational graphics and visualixations give me new knowledge and skills I can apply in my future educational pathway by allowing me to understand all the complex concepts of Computer science. Computational graphics and visualizations give can give me new knowledge and skills that can be applied in your future professional pathway by giving me the skills such as being able to interact with 3D visualizations, and environments. I could apply these skills with data science and visual content development. 
 
 
-How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+ 
